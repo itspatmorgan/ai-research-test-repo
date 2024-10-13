@@ -1,4 +1,4 @@
-# Unknown Arts: AI and Python Learning Journey
+# Unknown Arts: AI Learning Journey
 
 Welcome to the companion repository for the Unknown Arts newsletter! This repo documents my exploration into the world of Artificial Intelligence and Python programming, with a focus on learning, experimentation, and sharing insights with the community.
 
