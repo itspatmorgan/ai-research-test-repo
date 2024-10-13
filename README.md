@@ -1,28 +1,31 @@
 # Unknown Arts: AI Learning Journey
 
-Welcome to the companion repository for the Unknown Arts newsletter! This repo documents my exploration into the world of Artificial Intelligence and Python programming, with a focus on learning, experimentation, and sharing insights with the community.
+Welcome to the companion repository for the Unknown Arts newsletter! This repo documents my exploration into the world of Artificial Intelligence, with a focus on learning, experimentation, and sharing insights with the community.
 
 ## 📖 Overview
 
-This repository is a collection of my personal notes, experiments, and projects as I dive into AI and Python. Expect a variety of content, including:
+This repository is a collection of my personal notes, experiments, and projects as I dive into AI. Expect a variety of content, including:
 
-- Jupyter Notebooks with tutorials, code examples, and projects
 - Markdown files summarizing key concepts and findings
+- Jupyter Notebooks with tutorials, code examples, and projects
 - Scripts and other Python files for more focused coding exercises
 
 ## 🔍 What You’ll Find Here
 
-1. Tutorials & Walkthroughs: Step-by-step explanations of AI and Python topics, suitable for beginners and those looking to deepen their understanding.
-2. Projects: Hands-on projects that apply AI and Python techniques to solve interesting problems.
-3. Experiments: Explorations of different algorithms, libraries, and frameworks in the AI ecosystem.
+1. *Handbooks:* Practical reference guides for exploring AI concepts and putting them into practice.
+2. *Walkthroughs:* Step-by-step explanations of AI topics, suitable for beginners and those looking to deepen their understanding.
+3. *Experiments:* Explorations of different libraries, frameworks, and techniques in the AI ecosystem.
 
 ## 📂 Repository Structure
 
-The files are organized as follows:
+For now, the files are organized as follows:
 
+- /patterns: Markdown summaries of useful prompting patterns for AI tools like ChatGPT & Claude
 - /notebooks: Jupyter Notebooks with in-depth explorations and projects
 - /scripts: Standalone Python scripts and utilities
-- /docs: Markdown summaries and additional resources
+- /docs: Additional notes & resources
+
+This will evolve over time.
 
 ## 🎉 Contributing
 
