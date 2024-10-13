@@ -6,9 +6,9 @@ Welcome to the companion repository for the Unknown Arts newsletter! This repo d
 
 This repository is a collection of my personal notes, experiments, and projects as I dive into AI and Python. Expect a variety of content, including:
 
-• Jupyter Notebooks with tutorials, code examples, and projects
-• Markdown files summarizing key concepts and findings
-• Scripts and other Python files for more focused coding exercises
+- Jupyter Notebooks with tutorials, code examples, and projects
+- Markdown files summarizing key concepts and findings
+- Scripts and other Python files for more focused coding exercises
 
 ## 🔍 What You’ll Find Here
 
@@ -20,9 +20,9 @@ This repository is a collection of my personal notes, experiments, and projects 
 
 The files are organized as follows:
 
-• /notebooks: Jupyter Notebooks with in-depth explorations and projects
-• /scripts: Standalone Python scripts and utilities
-• /docs: Markdown summaries and additional resources
+- /notebooks: Jupyter Notebooks with in-depth explorations and projects
+- /scripts: Standalone Python scripts and utilities
+- /docs: Markdown summaries and additional resources
 
 ## 🎉 Contributing
 
