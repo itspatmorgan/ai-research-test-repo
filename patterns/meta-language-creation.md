@@ -2,7 +2,7 @@
 pattern_name: "Meta Language Creation"
 category: "Input Semantics"
 purpose: "Develop a custom shorthand language for efficient AI interactions."
-related_patterns: ["[Context Manager](context_manager.md)", "[Template](template.md)"]
+related_patterns: ["[Context Manager](context-manager.md)", "[Template](template.md)"]
 ---
 
 # Meta Language Creation
@@ -32,5 +32,5 @@ Define a set of symbols or phrases that represent common actions or requests. Ex
 - **For Writers**: Implement shorthand for repetitive editorial tasks, like highlighting or fact-checking.
 
 ## Related Patterns
-- **[Context Manager](context_manager.md)**: Use Meta Language Creation alongside Context Manager to set the stage for specific interaction contexts.
+- **[Context Manager](context-manager.md)**: Use Meta Language Creation alongside Context Manager to set the stage for specific interaction contexts.
 - **[Template](template.md)**: Combine with Template to structure responses with shorthand.

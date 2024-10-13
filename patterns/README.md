@@ -14,32 +14,32 @@ These patterns are based on recent research into AI prompt engineering, focusing
 ## Patterns Available
 
 ### Input Semantics
-- [Meta Language Creation](meta_language_creation.md): Develop a custom shorthand language for efficient AI interactions.
+- [Meta Language Creation](meta-language-creation.md): Develop a custom shorthand language for efficient AI interactions.
 
 ### Output Customization
-- [Output Automater](output_automater.md): Automate repetitive outputs to maintain consistency and save time.
+- [Output Automater](output-automater.md): Automate repetitive outputs to maintain consistency and save time.
 - [Persona](persona.md): Customize the AI's voice and role for tailored outputs.
-- [Visualization Generator](visualization_generator.md): Produce descriptive prompts for AI-generated visuals.
+- [Visualization Generator](visualization-generator.md): Produce descriptive prompts for AI-generated visuals.
 - [Recipe](recipe.md): Generate a step-by-step sequence to achieve a specified goal.
 - [Template](template.md): Structure your responses for consistent formatting and clarity.
 
 ### Error Identification
-- [Fact Check List](fact_check_list.md): Generate a list of facts for verification in AI responses.
+- [Fact Check List](fact-check-list.md): Generate a list of facts for verification in AI responses.
 - [Reflection](reflection.md): Instruct the AI to review and self-correct its outputs.
 
 ### Prompt Improvement
-- [Question Refinement](question_refinement.md): Improve questions for more specific and accurate AI answers.
-- [Alternative Approaches](alternative_approaches.md): Explore multiple perspectives or solutions to broaden scope.
-- [Cognitive Verifier](cognitive_verifier.md): Decompose complex queries into simpler parts for improved reasoning.
-- [Refusal Breaker](refusal_breaker.md): Rephrase prompts to overcome AI restrictions or refusals.
+- [Question Refinement](question-refinement.md): Improve questions for more specific and accurate AI answers.
+- [Alternative Approaches](alternative-approaches.md): Explore multiple perspectives or solutions to broaden scope.
+- [Cognitive Verifier](cognitive-verifier.md): Decompose complex queries into simpler parts for improved reasoning.
+- [Refusal Breaker](refusal-breaker.md): Rephrase prompts to overcome AI restrictions or refusals.
 
 ### Interaction
-- [Flipped Interaction](flipped_interaction.md): Let the AI lead the conversation with questions.
-- [Game Play](game_play.md): Create engaging, game-like AI interactions.
-- [Infinite Generation](infinite_generation.md): Extend responses indefinitely based on ongoing prompts.
+- [Flipped Interaction](flipped-interaction.md): Let the AI lead the conversation with questions.
+- [Game Play](game-play.md): Create engaging, game-like AI interactions.
+- [Infinite Generation](infinite-generation.md): Extend responses indefinitely based on ongoing prompts.
 
 ### Context Control
-- [Context Manager](context_manager.md): Define boundaries and scope for the AI's context during interactions.
+- [Context Manager](context-manager.md): Define boundaries and scope for the AI's context during interactions.
 
 ## Sources
 
