@@ -12,18 +12,18 @@ This repository is a collection of my personal notes, experiments, and projects 
 
 ## 🔍 What You’ll Find Here
 
-1. *Handbooks:* Practical reference guides for exploring AI concepts and putting them into practice.
-2. *Walkthroughs:* Step-by-step explanations of AI topics, suitable for beginners and those looking to deepen their understanding.
-3. *Experiments:* Explorations of different libraries, frameworks, and techniques in the AI ecosystem.
+1. **Handbooks:** Practical reference guides for exploring AI concepts and putting them into practice.
+2. **Walkthroughs:** Step-by-step explanations of AI topics, suitable for beginners and those looking to deepen their understanding.
+3. **Experiments:** Explorations of different libraries, frameworks, and techniques in the AI ecosystem.
 
 ## 📂 Repository Structure
 
 For now, the files are organized as follows:
 
-- /patterns: Markdown summaries of useful prompting patterns for AI tools like ChatGPT & Claude
-- /notebooks: Jupyter Notebooks with in-depth explorations and projects
-- /scripts: Standalone Python scripts and utilities
-- /docs: Additional notes & resources
+- **/patterns:** Markdown summaries of useful prompting patterns for AI tools like ChatGPT & Claude
+- **/notebooks:** Jupyter Notebooks with in-depth explorations and projects
+- **/scripts:** Standalone Python scripts and utilities
+- **/docs:** Additional notes & resources
 
 This will evolve over time.
 
