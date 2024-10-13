@@ -2,7 +2,7 @@
 pattern_name: "Meta Language Creation"
 category: "Input Semantics"
 purpose: "Develop a custom shorthand language for efficient AI interactions."
-related_patterns: ["[Context Manager](context-manager.md)", "[Template](template.md)"]
+related_patterns: "Context Manager, Template"
 ---
 
 # Meta Language Creation
@@ -26,6 +26,11 @@ Define a set of symbols or phrases that represent common actions or requests. Ex
 - **Start Small**: Begin with a few symbols or commands and expand as you find new use cases.
 - **Use Descriptive Terms**: Make shorthand terms intuitive for easy recall.
 - **Combine with Templates**: Use shorthand within predefined templates for added efficiency.
+
+## Watch Outs
+- **Overcomplication**: Creating too many shorthand terms at once can make interactions confusing. Start with a manageable set of terms.
+- **AI Misinterpretation**: The AI may not always understand the shorthand immediately. Be prepared to refine terms or provide clarifications.
+- **Context Limitations**: If the AI loses context during an interaction, it may not recognize your shorthand. Reestablish the terms if needed.
 
 ## Creative Use Cases
 - **For Designers**: Quickly access commonly used design principles or feedback phrases.
