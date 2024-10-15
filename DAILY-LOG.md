@@ -1,5 +1,14 @@
 # Daily Log
 
+## 2024-10-14
+- **ChatGPT**: 
+    - Created a new weekly newsletter format that I will send as part of this learning journey
+    - Based on that template, I created a prompt to use as foundation of a custom GPT that will interview me each week to gather the rough draft of information that I want to send in the newsletter
+- **Vanderbilt Course**: Completed module 3 of prompt engineering
+- **Reading**: Read Jack Clark's newsletter #387
+- **Video**: Created a 3-min video walkthrough of ChatGPT memory and shared to Twitter
+- **Coding**: Completed day 5 of Replit 100 days of Python
+
 ## 2024-10-13
 - **Reading**: Read Vandy research paper on prompt patterns.
 - **Template Creation**: Created markdown template for capturing key info from each pattern, tailored for creative professionals.
