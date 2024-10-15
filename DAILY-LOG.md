@@ -1,5 +1,11 @@
 # Daily Log
 
+## 2024-10-15
+- **Event**:
+    - Attended LA tech week event about the intersection of AI and creativity.
+- **Writing**:
+    - Used my custom Dispatch AI GPT to interview myself and create a rough draft for tomorrow's newsletter.
+
 ## 2024-10-14
 - **ChatGPT**: 
     - Created a new weekly newsletter format that I will send as part of this learning journey
