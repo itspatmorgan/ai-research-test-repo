@@ -3,6 +3,7 @@ pattern_name: "Visualization Generator"
 category: "Output Customization"
 purpose: "Produce descriptive text prompts for AI-generated visuals."
 related_patterns: "Template, Output Automater"
+Status: "Draft"
 ---
 
 # Visualization Generator
@@ -38,3 +39,6 @@ Provide specific visual cues and desired outcomes, enabling the AI to produce co
 ## Related Patterns
 - **[Template](template.md)**: Use Visualization Generator with Template for structured visual prompts.
 - **[Output Automater](output-automater.md)**: Automate generation of multiple related visual descriptions.
+
+## Sources
+- [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

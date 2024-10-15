@@ -3,6 +3,7 @@ pattern_name: "Recipe"
 category: "Output Customization"
 purpose: "Generate a step-by-step sequence to achieve a specified goal."
 related_patterns: "Template, Output Automater"
+Status: "Draft"
 ---
 
 # Recipe
@@ -39,3 +40,6 @@ You define the goal and desired steps, and the AI generates a detailed sequence 
 ## Related Patterns
 - **[Template](template.md)**: Combine with Template for consistent formatting across multiple recipes.
 - **[Output Automater](output-automater.md)**: Use with Output Automater to generate recipes for recurring tasks.
+
+## Sources
+- [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

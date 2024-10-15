@@ -3,12 +3,13 @@ pattern_name: "Cognitive Verifier"
 category: "Prompt Improvement"
 purpose: "Break down complex queries into simpler parts for improved reasoning."
 related_patterns: "Fact Check List, Reflection, Question Refinement"
+Status: "Needs Review"
 ---
 
 # Cognitive Verifier
 
 ## Purpose
-The Cognitive Verifier pattern helps decompose complex queries into simpler components, allowing the AI to process and verify each part more effectively. This pattern is ideal for tackling intricate topics or multi-step questions.
+The Cognitive Verifier pattern helps decompose complex or vague questions into simpler components, allowing the AI to process and verify each part more effectively.
 
 ## How it Works
 You prompt the AI to break down a complicated topic into its individual elements, ensuring clarity and accuracy at each step before forming a complete answer.
@@ -40,3 +41,6 @@ You prompt the AI to break down a complicated topic into its individual elements
 - **[Fact Check List](fact-check-list.md)**: Use Fact Check List for factual verification of each component.
 - **[Reflection](reflection.md)**: Pair with Reflection to enhance accuracy and cohesion across components.
 - **[Question Refinement](question-refinement.md)**: Use with Question Refinement to break down complex queries and refine them for clarity.
+
+## Sources
+- [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

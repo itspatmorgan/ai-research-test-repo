@@ -3,6 +3,7 @@ pattern_name: "Refusal Breaker"
 category: "Prompt Improvement"
 purpose: "Rephrase prompts to overcome AI restrictions or refusals."
 related_patterns: "Question Refinement, Context Manager"
+Status: "Draft"
 ---
 
 # Refusal Breaker
@@ -39,3 +40,6 @@ If the AI refuses to respond to a prompt, modify the phrasing or context to enco
 ## Related Patterns
 - **[Question Refinement](question-refinement.md)**: Use Question Refinement to improve rephrased prompts.
 - **[Context Manager](context-manager.md)**: Combine with Context Manager to provide background that may prevent refusals.
+
+## Sources
+- [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

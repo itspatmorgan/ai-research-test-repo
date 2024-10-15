@@ -3,6 +3,7 @@ pattern_name: "Output Automater"
 category: "Output Customization"
 purpose: "Automate repetitive outputs to maintain consistency and save time."
 related_patterns: "Template, Persona"
+Status: "Draft"
 ---
 
 # Output Automater
@@ -38,3 +39,6 @@ Define the desired output format once and have the AI reproduce it across tasks 
 ## Related Patterns
 - **[Template](template.md)**: Output Automater works well with Templates for structured outputs.
 - **[Persona](persona.md)**: Use Output Automater with Persona to ensure the output remains in a specific voice.
+
+## Sources
+- [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

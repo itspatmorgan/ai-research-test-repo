@@ -3,6 +3,7 @@ pattern_name: "Question Refinement"
 category: "Prompt Improvement"
 purpose: "Improve questions for more specific and accurate AI answers."
 related_patterns: "Alternative Approaches, Cognitive Verifier"
+Status: "Draft"
 ---
 
 # Question Refinement
@@ -14,8 +15,8 @@ The Question Refinement pattern helps you refine and optimize your questions to 
 After posing an initial question, prompt the AI to suggest improvements or modifications that might lead to better answers. This can involve rephrasing, narrowing the focus, or adding details.
 
 ## Example
-- **Prompt**: “How can I improve this question: 'Why is AI important?'”
-- **AI Response**: Suggests a refined question such as, “How does AI impact various industries and improve efficiency?”
+- **Prompt**: “Whenever I ask a question, suggest a better version of the question and ask me if I would like to use it instead'”
+- **AI Response**: Suggests refined questions as they come up in conversation
 
 ## How to Use
 1. **Pose the Initial Question**: Start with a general question that needs refinement.
@@ -23,14 +24,15 @@ After posing an initial question, prompt the AI to suggest improvements or modif
 3. **Select and Refine Further**: Choose the best suggestion and, if necessary, refine further for clarity.
 
 ## Practical Tips
+- **Consider adding as a guideline for custom instructions**: As this is a fundamental contextual statement, consider adding it as a guideline at a higher order scope to reduce the need to repeat yourself.
 - **Focus on Specificity**: Ask the AI to make questions more specific to narrow down the answers.
 - **Use Iterative Refinement**: Refine the question multiple times for more complex topics.
 - **Encourage Diverse Angles**: Ask for different approaches to framing the question.
 
 ## Watch Outs
-- **Over-Refinement**: Excessive refinement can make questions overly complex; aim for clarity and simplicity.
 - **Losing Original Intent**: Ensure that the refined question still addresses the original goal or topic.
 - **Time-Intensive for Simple Questions**: Question Refinement is best for complex or ambiguous queries, not straightforward ones.
+- **Over-Refinement**: Excessive refinement can make questions overly complex; aim for clarity and simplicity.
 
 ## Creative Use Cases
 - **For Researchers**: Refine research questions for targeted literature searches.
@@ -39,3 +41,6 @@ After posing an initial question, prompt the AI to suggest improvements or modif
 ## Related Patterns
 - **[Alternative Approaches](alternative-approaches.md)**: Use with Alternative Approaches for multiple perspectives on refining questions.
 - **[Cognitive Verifier](cognitive-verifier.md)**: Pair with Cognitive Verifier to break down and refine complex queries.
+
+## Sources
+- [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

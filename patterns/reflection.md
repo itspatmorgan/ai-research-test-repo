@@ -3,6 +3,7 @@ pattern_name: "Reflection"
 category: "Error Identification"
 purpose: "Instruct the AI to review and self-correct its responses."
 related_patterns: "Fact Check List, Cognitive Verifier"
+Status: "Draft"
 ---
 
 # Reflection
@@ -39,3 +40,6 @@ After generating an initial response, prompt the AI to reflect on its accuracy, 
 ## Related Patterns
 - **[Fact Check List](fact-check-list.md)**: Use Fact Check List for targeted verification alongside Reflection.
 - **[Cognitive Verifier](cognitive-verifier.md)**: Pair with Cognitive Verifier for detailed reviews of complex content.
+
+## Sources
+- [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

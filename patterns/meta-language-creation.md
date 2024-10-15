@@ -3,6 +3,7 @@ pattern_name: "Meta Language Creation"
 category: "Input Semantics"
 purpose: "Develop a custom shorthand language for efficient AI interactions."
 related_patterns: "Context Manager, Template"
+Status: "Draft"
 ---
 
 # Meta Language Creation
@@ -39,3 +40,6 @@ Define a set of symbols or phrases that represent common actions or requests. Ex
 ## Related Patterns
 - **[Context Manager](context-manager.md)**: Use Meta Language Creation alongside Context Manager to set the stage for specific interaction contexts.
 - **[Template](template.md)**: Combine with Template to structure responses with shorthand.
+
+## Sources
+- [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)
