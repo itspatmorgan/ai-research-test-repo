@@ -15,7 +15,7 @@
 - [Groq](https://www.groq.com/)
 
 ### AI-Assisted Development
-- [Cursor](https://cursor.sh/)
+- [Cursor](https://cursor.com/)
 - [Vercel SDK Playground](https://sdk.vercel.ai/playground)
 
 ---
