@@ -22,11 +22,11 @@ layout: table_wrappers
       {% include components/breadcrumbs.html %}
       <div id="main-content" class="main-content">
         <main>
-          {% if site.heading_anchors != false %}
+          <!-- {% if site.heading_anchors != false %}
             {% include_relative _includes/vendor/anchor_headings.html html=content %}
-          {% else %}
+          {% else %} -->
             {{ content }}
-          {% endif %}
+          <!-- {% endif %} -->
 
           {% if page.has_toc != false %}
             {% include components/children_nav.html %}
