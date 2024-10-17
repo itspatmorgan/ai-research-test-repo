@@ -1,9 +1,10 @@
 ---
-pattern_name: "Infinite Generation"
-category: "Interaction"
+layout: default
+title: "Infinite Generation"
+group: "Interaction"
 purpose: "Extend responses indefinitely based on ongoing prompts."
 related_patterns: "Game Play, Context Manager"
-Status: "Draft"
+status: "Draft"
 ---
 
 # Infinite Generation
@@ -38,8 +39,8 @@ You start with an initial prompt, and the AI continues generating content based 
 - **For Marketers**: Generate content ideas or blog posts in an iterative fashion.
 
 ## Related Patterns
-- **[Game Play](game-play.md)**: Use with Game Play for ongoing, dynamic game interactions.
-- **[Context Manager](context-manager.md)**: Combine with Context Manager to maintain topic focus across long sessions.
+- **[Game Play]({{ '/patterns/game-play' | relative_url }})**: Use with Game Play for ongoing, dynamic game interactions.
+- **[Context Manager]({{ '/patterns/context-manager' | relative_url }})**: Combine with Context Manager to maintain topic focus across long sessions.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

@@ -1,9 +1,10 @@
 ---
-pattern_name: "Question Refinement"
-category: "Prompt Improvement"
+layout: default
+title: "Question Refinement"
+group: "Prompt Improvement"
 purpose: "Improve questions for more specific and accurate AI answers."
 related_patterns: "Alternative Approaches, Cognitive Verifier"
-Status: "Draft"
+status: "Draft"
 ---
 
 # Question Refinement
@@ -39,8 +40,8 @@ After posing an initial question, prompt the AI to suggest improvements or modif
 - **For Interviewers**: Improve interview questions to elicit more detailed responses.
 
 ## Related Patterns
-- **[Alternative Approaches](alternative-approaches.md)**: Use with Alternative Approaches for multiple perspectives on refining questions.
-- **[Cognitive Verifier](cognitive-verifier.md)**: Pair with Cognitive Verifier to break down and refine complex queries.
+- **[Alternative Approaches]({{ '/patterns/alternative-approaches' | relative_url }})**: Use with Alternative Approaches for multiple perspectives on refining questions.
+- **[Cognitive Verifier]({{ '/patterns/cognitive-verifier' | relative_url }})**: Pair with Cognitive Verifier to break down and refine complex queries.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

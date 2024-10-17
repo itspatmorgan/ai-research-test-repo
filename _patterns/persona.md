@@ -1,9 +1,10 @@
 ---
-pattern_name: "Persona"
-category: "Output Customization"
+layout: default
+title: "Persona"
+group: "Output Customization"
 purpose: "Assigns a specific voice or role for output consistency."
 related_patterns: "Template, Flipped Interaction, Alternative Approaches"
-Status: "Draft"
+status: "Draft"
 ---
 
 # Persona
@@ -37,9 +38,9 @@ By specifying a particular character, professional role, or style, you guide the
 - **For Marketers**: Develop a brand voice and ensure consistent messaging across content.
 
 ## Related Patterns
-- **[Template](template.md)**: Combine Persona with Template to structure the output with a specific voice.
-- **[Flipped Interaction](flipped-interaction.md)**: Let the AI lead as the assigned persona.
-- **[Alternative Approaches](alternative-approaches.md)**: Experiment with different personas for varied perspectives.
+- **[Template]({{ '/patterns/template' | relative_url }})**: Combine Persona with Template to structure the output with a specific voice.
+- **[Flipped Interaction]({{ '/patterns/flipped-interaction' | relative_url }})**: Let the AI lead as the assigned persona.
+- **[Alternative Approaches]({{ '/patterns/alternative-approaches' | relative_url }})**: Experiment with different personas for varied perspectives.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

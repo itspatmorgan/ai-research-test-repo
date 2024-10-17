@@ -1,9 +1,10 @@
 ---
-pattern_name: "Template"
-category: "Output Customization"
+layout: default
+title: "Template"
+group: "Output Customization"
 purpose: "Structure responses for consistent formatting and clarity."
-related_patterns: "Output Automater, Recipe"
-Status: "Draft"
+related_patterns: "Output Automator, Recipe"
+status: "Draft"
 ---
 
 # Template
@@ -38,8 +39,8 @@ Define a layout or format, and the AI will fill in the content accordingly. Temp
 - **For Designers**: Develop layout templates for presentations or documents.
 
 ## Related Patterns
-- **[Output Automater](output-automater.md)**: Combine with Output Automater for repetitive templated outputs.
-- **[Recipe](recipe.md)**: Use with Recipe to format step-by-step guides in a consistent manner.
+- **[Output Automator]({{ '/patterns/output-automator' | relative_url }})**: Combine with Output Automator for repetitive templated outputs.
+- **[Recipe]({{ '/patterns/recipe' | relative_url }})**: Use with Recipe to format step-by-step guides in a consistent manner.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

@@ -1,9 +1,10 @@
 ---
-pattern_name: "Fact Check List"
-category: "Error Identification"
+layout: default
+title: "Fact Check List"
+group: "Error Identification"
 purpose: "Prompt the AI to generate a list of facts for verification in AI responses."
 related_patterns: "Reflection, Cognitive Verifier"
-Status: "Draft"
+status: "Draft"
 ---
 
 # Fact Check List
@@ -38,8 +39,8 @@ After generating a response, the AI lists essential facts or data points that re
 - **For Educators**: Summarize key facts in lesson plans or study guides.
 
 ## Related Patterns
-- **[Reflection](reflection.md)**: Use Reflection alongside Fact Check List to encourage the AI to review its responses.
-- **[Cognitive Verifier](cognitive-verifier.md)**: Use Cognitive Verifier for breaking down and verifying complex information.
+- **[Reflection]({{ '/patterns/reflection' | relative_url }})**: Use Reflection alongside Fact Check List to encourage the AI to review its responses.
+- **[Cognitive Verifier]({{ '/patterns/cognitive-verifier' | relative_url }})**: Use Cognitive Verifier for breaking down and verifying complex information.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

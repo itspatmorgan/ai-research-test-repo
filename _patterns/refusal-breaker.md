@@ -1,9 +1,10 @@
 ---
-pattern_name: "Refusal Breaker"
-category: "Prompt Improvement"
+layout: default
+title: "Refusal Breaker"
+group: "Prompt Improvement"
 purpose: "Rephrase prompts to overcome AI restrictions or refusals."
 related_patterns: "Question Refinement, Context Manager"
-Status: "Draft"
+status: "Draft"
 ---
 
 # Refusal Breaker
@@ -38,8 +39,8 @@ If the AI refuses to respond to a prompt, modify the phrasing or context to enco
 - **For Content Creators**: Overcome content restrictions when exploring controversial subjects.
 
 ## Related Patterns
-- **[Question Refinement](question-refinement.md)**: Use Question Refinement to improve rephrased prompts.
-- **[Context Manager](context-manager.md)**: Combine with Context Manager to provide background that may prevent refusals.
+- **[Question Refinement]({{ '/patterns/question-refinement' | relative_url }})**: Use Question Refinement to improve rephrased prompts.
+- **[Context Manager]({{ '/patterns/context-manager' | relative_url }})**: Combine with Context Manager to provide background that may prevent refusals.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

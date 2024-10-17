@@ -1,9 +1,10 @@
 ---
-pattern_name: "Alternative Approaches"
-category: "Prompt Improvement"
+layout: default
+title: "Alternative Approaches"
+group: "Prompt Improvement"
 purpose: "Explore multiple perspectives or solutions to broaden scope."
 related_patterns: "Question Refinement, Persona"
-Status: "Draft"
+status: "Draft"
 ---
 
 # Alternative Approaches
@@ -38,8 +39,8 @@ After stating a problem or question, prompt the AI to suggest alternative soluti
 - **For Business Strategists**: Generate various strategies to address a business challenge.
 
 ## Related Patterns
-- **[Question Refinement](question-refinement.md)**: Use with Question Refinement to explore different angles on refined questions.
-- **[Persona](persona.md)**: Experiment with different personas for varied perspectives on the same issue.
+- **[Question Refinement]({{ '/patterns/question-refinement' | relative_url }})**: Use with Question Refinement to explore different angles on refined questions.
+- **[Persona]({{ '/patterns/persona' | relative_url }})**: Experiment with different personas for varied perspectives on the same issue.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

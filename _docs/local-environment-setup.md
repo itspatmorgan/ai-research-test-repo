@@ -1,3 +1,8 @@
+---
+layout: default
+title: Local Environment Setup (Mac)
+---
+
 # Local Environment Setup (Mac)
 
 - **Install Anaconda**

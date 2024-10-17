@@ -1,9 +1,10 @@
 ---
-pattern_name: "Game Play"
-category: "Interaction"
+layout: default
+title: "Game Play"
+group: "Interaction"
 purpose: "Create engaging, game-like AI interactions."
 related_patterns: "Flipped Interaction, Infinite Generation"
-Status: "Draft"
+status: "Draft"
 ---
 
 # Game Play
@@ -38,8 +39,8 @@ Set rules or objectives, and prompt the AI to respond within that framework, sim
 - **For Storytellers**: Role-play scenarios to develop characters or plot ideas.
 
 ## Related Patterns
-- **[Flipped Interaction](flipped-interaction.md)**: Use with Flipped Interaction to let the AI ask questions as part of the game.
-- **[Infinite Generation](infinite-generation.md)**: Combine with Infinite Generation for ongoing, evolving game scenarios.
+- **[Flipped Interaction]({{ '/patterns/flipped-interaction' | relative_url }})**: Use with Flipped Interaction to let the AI ask questions as part of the game.
+- **[Infinite Generation]({{ '/patterns/infinite-generation' | relative_url }})**: Combine with Infinite Generation for ongoing, evolving game scenarios.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

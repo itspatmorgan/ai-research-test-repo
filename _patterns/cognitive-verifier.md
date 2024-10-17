@@ -1,9 +1,10 @@
 ---
-pattern_name: "Cognitive Verifier"
-category: "Prompt Improvement"
+layout: default
+title: "Cognitive Verifier"
+group: "Prompt Improvement"
 purpose: "Break down complex queries into simpler parts for improved reasoning."
 related_patterns: "Fact Check List, Reflection, Question Refinement"
-Status: "Needs Review"
+status: "Needs Review"
 ---
 
 # Cognitive Verifier
@@ -38,9 +39,9 @@ You prompt the AI to break down a complicated topic into its individual elements
 - **For Analysts**: Break down intricate data sets into simpler components for analysis.
 
 ## Related Patterns
-- **[Fact Check List](fact-check-list.md)**: Use Fact Check List for factual verification of each component.
-- **[Reflection](reflection.md)**: Pair with Reflection to enhance accuracy and cohesion across components.
-- **[Question Refinement](question-refinement.md)**: Use with Question Refinement to break down complex queries and refine them for clarity.
+- **[Fact Check List]({{ '/patterns/fact-check-list' | relative_url }})**: Use Fact Check List for factual verification of each component.
+- **[Reflection]({{ '/patterns/reflection' | relative_url }})**: Pair with Reflection to enhance accuracy and cohesion across components.
+- **[Question Refinement]({{ '/patterns/question-refinement' | relative_url }})**: Use with Question Refinement to break down complex queries and refine them for clarity.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

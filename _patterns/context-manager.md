@@ -1,9 +1,10 @@
 ---
-pattern_name: "Context Manager"
-category: "Context Control"
+layout: default
+title: "Context Manager"
+group: "Context Control"
 purpose: "Set boundaries and context to control the scope of the AI's output."
 related_patterns: "Meta Language Creation, Refusal Breaker"
-Status: "Draft"
+status: "Draft"
 ---
 
 # Context Manager
@@ -38,8 +39,8 @@ You define a context, such as a topic or style, and instruct the AI to adhere to
 - **For Educators**: Guide the AI to stay within the scope of a particular subject or lesson.
 
 ## Related Patterns
-- **[Meta Language Creation](meta-language-creation.md)**: Use with Meta Language Creation for shorthand commands within a specific context.
-- **[Refusal Breaker](refusal-breaker.md)**: Apply Refusal Breaker techniques to clarify or reset the context if the AI refuses to stay on topic.
+- **[Meta Language Creation]({{ '/patterns/meta-language-creation' | relative_url }})**: Use with Meta Language Creation for shorthand commands within a specific context.
+- **[Refusal Breaker]({{ '/patterns/refusal-breaker' | relative_url }})**: Apply Refusal Breaker techniques to clarify or reset the context if the AI refuses to stay on topic.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

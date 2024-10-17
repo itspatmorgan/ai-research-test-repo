@@ -1,3 +1,8 @@
+---
+layout: default
+title: Read
+---
+
 # Read
 
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

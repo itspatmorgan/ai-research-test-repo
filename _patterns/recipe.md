@@ -1,9 +1,10 @@
 ---
-pattern_name: "Recipe"
-category: "Output Customization"
+layout: default
+title: "Recipe"
+group: "Output Customization"
 purpose: "Generate a step-by-step sequence to achieve a specified goal."
-related_patterns: "Template, Output Automater"
-Status: "Draft"
+related_patterns: "Template, Output Automator"
+status: "Draft"
 ---
 
 # Recipe
@@ -38,8 +39,8 @@ You define the goal and desired steps, and the AI generates a detailed sequence 
 - **For Project Managers**: Outline processes for project phases or task sequences.
 
 ## Related Patterns
-- **[Template](template.md)**: Combine with Template for consistent formatting across multiple recipes.
-- **[Output Automater](output-automater.md)**: Use with Output Automater to generate recipes for recurring tasks.
+- **[Template]({{ '/patterns/template' | relative_url }})**: Use Visualization Generator with Template for structured visual prompts.
+- **[Output Automator]({{ '/patterns/output-automator' | relative_url }})**: Use with Output Automator to generate recipes for recurring tasks.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

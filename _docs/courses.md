@@ -1,3 +1,8 @@
+---
+layout: default
+title: Courses
+---
+
 # Courses
 
 - [Vanderbilt Prompt Engineering Course](https://www.coursera.org/learn/prompt-engineering)

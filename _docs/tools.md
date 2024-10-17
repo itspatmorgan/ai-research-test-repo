@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tools
+---
+
 # Tools
 
 ## AI and Language Models

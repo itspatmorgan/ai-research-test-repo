@@ -1,3 +1,8 @@
+---
+layout: default
+title: Watch
+---
+
 # Watch
 
 - [AI, policy, and the weird sci-fi future with Anthropic’s Jack Clark](https://www.youtube.com/watch?v=b1-OuHWu88Y)

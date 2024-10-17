@@ -1,3 +1,8 @@
+---
+layout: default
+title: AI Model Guides
+---
+
 # AI Model Guides
 
 ## OpenAI

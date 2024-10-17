@@ -1,12 +1,13 @@
 ---
-pattern_name: "Audience"
-category: "Output Customization"
+layout: default
+title: "Audience"
+group: "Output Customization"
 purpose: "Tailor the LLM's output to a specific audience and what it knows about their needs."
 related_patterns: "Persona"
-Status: "Draft"
+status: "Draft"
 ---
 
-# Persona
+# Audience
 
 ## Purpose
 The Persona pattern allows you to assign a specific role or voice to the AI, ensuring that responses maintain a consistent tone and perspective.
@@ -36,9 +37,9 @@ By specifying a particular audience you're creating for, you guide the AI toward
 - **For Marketers**: Develop a brand voice and ensure consistent messaging across content.
 
 ## Related Patterns
-- **[Persona](persona.md)**: Use with Persona to give the AI a specific role, like a therapist or teacher, during interaction.
-- **[Template](template.md)**: Combine Audience with Template to structure the output for a specific group.
-- **[Flipped Interaction](flipped-interaction.md)**: Let the AI lead as the assigned persona.
+- **[Persona]({{ '/patterns/persona' | relative_url }})**: Use Persona to create specific audience profiles.
+- **[Template]({{ '/patterns/template' | relative_url }})**: Combine Audience with Template to structure the output for a specific group.
+- **[Flipped Interaction]({{ '/patterns/flipped-interaction' | relative_url }})**: Let the AI lead as the assigned persona.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

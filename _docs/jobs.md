@@ -1,3 +1,8 @@
+---
+layout: default
+title: AI Job References
+---
+
 # AI Job References
 
 - [Content Manager at Meta](https://www.metacareers.com/jobs/902233335134239/)
